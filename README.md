@@ -11,3 +11,4 @@
 ### Issue or Check
 
 - `Issue#1` [[iOS] Type `Struct · Class` does not conform to protocol `'Decodable’` / `‘Encodable’`](https://taekkidev.notion.site/iOS-Type-SampleDataModel-does-not-conform-to-protocol-Decodable-Encodable-4cf78c9c16654260ae26821dbede3081)
+- `Issue#2` [[iOS] Build input file cannot be found](https://taekkidev.notion.site/iOS-Build-input-file-cannot-be-found-d89a9f4227bc46059cd658162be707bb)
