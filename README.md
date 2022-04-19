@@ -15,3 +15,4 @@
 
 ### SwiftUI
 - [[SwiftUI] View Hidden Approach (뷰 숨김 처리하기)](https://taekkidev.notion.site/SwiftUI-View-Hidden-Approach-2c71b7af9ae946eaa28b9993d312ca13)
+- [[SwiftUI] TabView Pagination (탭뷰로 페이징 처리하기)](https://taekkidev.notion.site/SwiftUI-TabView-Pagination-201ba1b7b6074d68a146917ced75f6f6)
