@@ -6,6 +6,7 @@
 ### Network Programming
 
 - [[Moya] multipart/form-data 통신 시, 배열을 `body parameter`로 넘기기](https://www.notion.so/taekkidev/Moya-multipart-form-data-body-parameter-933143b4e71b4b169a3b2cf2feb2a732)
+- [네트워크 통신 Mock Data 사용하기](https://github.com/Taehyeon-Kim/JSONMockSample/blob/master/README.md)
 
 
 ### Issue or Check
