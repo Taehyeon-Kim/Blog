@@ -9,6 +9,7 @@
 - [네트워크 통신 Mock Data 사용하기](https://github.com/Taehyeon-Kim/TIL/issues/8)
 - [JSON의 Key 값이 Dynamic하게 넘어올 때](https://github.com/Taehyeon-Kim/TIL/issues/9)
 - [URI vs URL](https://github.com/Taehyeon-Kim/TIL/issues/13)
+- [HTTP Status Code](https://github.com/Taehyeon-Kim/TIL/issues/14)
 
 ### Issue or Check
 
