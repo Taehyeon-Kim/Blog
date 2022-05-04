@@ -8,6 +8,7 @@
 - [[Moya] multipart/form-data 통신 시, 배열을 `body parameter`로 넘기기](https://www.notion.so/taekkidev/Moya-multipart-form-data-body-parameter-933143b4e71b4b169a3b2cf2feb2a732)
 - [네트워크 통신 Mock Data 사용하기](https://github.com/Taehyeon-Kim/TIL/issues/8)
 - [JSON의 Key 값이 Dynamic하게 넘어올 때](https://github.com/Taehyeon-Kim/TIL/issues/9)
+- [URI vs URL](https://github.com/Taehyeon-Kim/TIL/issues/13)
 
 ### Issue or Check
 
