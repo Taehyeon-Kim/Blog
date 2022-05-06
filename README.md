@@ -3,6 +3,9 @@
 
 <br/>
 
+### iOS
+- [first(where:)와 first](https://github.com/Taehyeon-Kim/TIL/issues/25)
+
 ### Network Programming
 
 - [[Moya] multipart/form-data 통신 시, 배열을 `body parameter`로 넘기기](https://www.notion.so/taekkidev/Moya-multipart-form-data-body-parameter-933143b4e71b4b169a3b2cf2feb2a732)
