@@ -26,3 +26,6 @@
 
 ### Code Archive
 - [배경을 클릭했을 때 view를 dismiss하고 싶다면](https://github.com/Taehyeon-Kim/TIL/issues/21)
+
+### OS
+- [[OS] Memory Management 1](https://github.com/Taehyeon-Kim/TIL/issues/33)
