@@ -10,6 +10,7 @@
 - [[iOS] ~= 연산자](https://github.com/Taehyeon-Kim/TIL/issues/26)
 - [[iOS] 이미지 캐시 처리하기 (feat. NSCache)](https://github.com/Taehyeon-Kim/TIL/issues/44)
 - [[iOS] 배경을 클릭했을 때 view를 dismiss하고 싶다면](https://github.com/Taehyeon-Kim/TIL/issues/21)
+- [[iOS] @available(*, unavailable) 사용해서 비가용성 정의하기](https://github.com/Taehyeon-Kim/TIL/issues/48)
 
 <br />
 
