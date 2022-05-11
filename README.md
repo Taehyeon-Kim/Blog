@@ -7,6 +7,7 @@
 - [first(where:)와 first](https://github.com/Taehyeon-Kim/TIL/issues/25)
 - [#available, @available](https://github.com/Taehyeon-Kim/TIL/issues/36)
 - [특정 모서리 둥글게 만들기 (ex. CACornerMask, UIRectCorner)](https://github.com/Taehyeon-Kim/TIL/issues/37)
+- [~= 연산자](https://github.com/Taehyeon-Kim/TIL/issues/26)
 
 ### Network Programming
 
