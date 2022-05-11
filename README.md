@@ -1,5 +1,5 @@
-# TIL <img src="https://user-images.githubusercontent.com/61109660/163592994-c0437088-e756-499d-af3a-873cf3cf48c9.png" align=left width=100>
-> `오늘을 부재중으로 만들지 말자`
+![심야아요 배너](https://user-images.githubusercontent.com/61109660/167799338-ab43eea4-8396-4f9b-be2f-99c57d9b2982.png)
+> 딱 한 가지만 지킨다. 평일 중 매일 1가지의 TIL을 기록하고 자정이 되면 그 내용을 공유한다.
 
 <br/>
 
