@@ -32,3 +32,6 @@
 
 ### OS
 - [[OS] Memory Management 1](https://github.com/Taehyeon-Kim/TIL/issues/33)
+
+### Git
+- [git branch -m](https://github.com/Taehyeon-Kim/TIL/issues/7)
