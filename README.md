@@ -14,6 +14,7 @@
 - [[iOS] 레이아웃 주기(Layout Cycle)](https://github.com/Taehyeon-Kim/TIL/issues/52)
 - [[iOS] Dictionary](https://github.com/Taehyeon-Kim/TIL/issues/55)
 - [[iOS] layoutIfNeeded vs setNeedsLayout](https://github.com/Taehyeon-Kim/TIL/issues/51)
+- [[iOS] CTFontManagerRegisterFontsForURL를 이용한 폰트 등록하기](https://github.com/Taehyeon-Kim/TIL/issues/56)
 
 <br />
 
