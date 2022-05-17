@@ -57,5 +57,6 @@
 
 ### Git
 - [[Git] git branch -m](https://github.com/Taehyeon-Kim/TIL/issues/7)
+- [[Git] Fork Repository 최신으로 동기화](https://github.com/Taehyeon-Kim/TIL/issues/60)
 
 <br />
