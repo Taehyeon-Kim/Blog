@@ -56,6 +56,7 @@
 
 ### OS
 - [[OS] Memory Management 1](https://github.com/Taehyeon-Kim/TIL/issues/33)
+- [[OS] Memory Management 2](https://github.com/Taehyeon-Kim/TIL/issues/69)
 
 <br />
 
